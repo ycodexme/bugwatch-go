@@ -1,3 +1,3 @@
-module github.com/roomylabs/bugwatch-go
+module github.com/ycodexme/bugwatch-go
 
 go 1.21

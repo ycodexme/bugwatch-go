@@ -51,7 +51,7 @@ const (
 	// RedactedPlaceholder replaces any user field tagged "sensitive".
 	RedactedPlaceholder = "[redacted]"
 
-	sdkModule          = "github.com/roomylabs/bugwatch-go"
+	sdkModule          = "github.com/ycodexme/bugwatch-go"
 	defaultQueueSize   = 2048
 	maxBreadcrumbs     = 100
 	defaultHTTPTimeout = 10 * time.Second

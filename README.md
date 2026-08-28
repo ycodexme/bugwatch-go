@@ -18,7 +18,7 @@ your Bugwatch server.
 ## Installation
 
 ```sh
-go get github.com/roomylabs/bugwatch-go
+go get github.com/ycodexme/bugwatch-go
 ```
 
 ## Quick start
@@ -30,7 +30,7 @@ import (
 	"errors"
 	"log"
 
-	bugwatch "github.com/roomylabs/bugwatch-go"
+	bugwatch "github.com/ycodexme/bugwatch-go"
 )
 
 func main() {
